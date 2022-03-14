@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "bcrypt-nodejs": "^0.0.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "jwt-simple": "^0.5.6",
+    "moment": "^2.29.1",
+    "mongoose": "^6.2.0"
+  },
+  "name": "ventaonline2020344",
+  "description": "Llevar un sitio de ventas online",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgonzalez2020344/VentaOnline2020344.git"
+  },
+  "author": "José Daniel González Jacinto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgonzalez2020344/VentaOnline2020344/issues"
+  },
+  "homepage": "https://github.com/jgonzalez2020344/VentaOnline2020344#readme"
+}
